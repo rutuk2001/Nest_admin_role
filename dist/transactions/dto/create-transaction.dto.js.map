@@ -1,0 +1,1 @@
+{"version":3,"file":"create-transaction.dto.js","sourceRoot":"","sources":["../../../src/transactions/dto/create-transaction.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAA6C;AAE7C,MAAa,oBAAoB;CAQhC;AARD,oDAQC;AAJQ;IADN,IAAA,4BAAU,EAAC,EAAE,OAAO,EAAE,6BAA6B,EAAE,CAAC;;8DACvB;AAGzB;IADN,IAAA,4BAAU,EAAC,EAAE,OAAO,EAAE,oBAAoB,EAAE,CAAC;;oDACxB"}
